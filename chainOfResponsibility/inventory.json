@@ -1,0 +1,16 @@
+{
+    "devices": [
+        {"name":"iPhone 11 64GB Black", "qty":5},
+        {"name":"Galaxy Note10", "qty":15},
+        {"name":"P30 Lite", "qty":2}
+    ],
+    "tablets": [
+        {"name":"MEDIAPAD M5 LITE 10", "qty":2},
+        {"name":"GALAXY TAB S4", "qty":4},
+        {"name":"TAB 4 8", "qty":8}
+    ],
+    "modems": [
+        {"name":"Modem 4G", "qty":2},
+        {"name":"modem 42", "qty":4}
+    ]   
+}
